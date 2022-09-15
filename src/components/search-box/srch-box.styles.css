@@ -1,0 +1,12 @@
+input{
+    width: 15rem;
+    height: 3rem;
+    margin: 0px auto 30px auto;
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgb(54, 44, 44);
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+
